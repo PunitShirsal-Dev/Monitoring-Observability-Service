@@ -1,0 +1,3 @@
+com\microservices\monitoring\controller\ObservabilityDashboardController.class
+com\microservices\monitoring\health\DownstreamHealthIndicator.class
+com\microservices\monitoring\MonitoringObservabilityServiceApplication.class
